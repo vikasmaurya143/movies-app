@@ -1,0 +1,27 @@
+
+.wrapper{
+  width: 95%;
+  display: flex;
+  /* flex-wrap: nowrap; */
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 0 auto; 
+ 
+}
+
+
+.inputBox{
+  width: 80%;
+  margin: 30px auto;
+  border: 1px solid rgba(182, 174, 174, 0.9);
+  } 
+  
+   .search{
+   width: 100%;
+   padding: 10px 0px;
+   outline: none;
+   background-color: white;
+   border: none;
+   text-align: center;
+   font-size: 15px;
+  }
